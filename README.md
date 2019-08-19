@@ -1,7 +1,5 @@
 # DoublySimple
 
-	    Assumptions:	Python ver. 2.7.14 or higher.
-      
       Descrption:       A simple Python function library for managing doubly linked lists.
                         All entries in a doubly linked list constitute a Python dictionary.
                         Each element of the dictionary is a list containing the following:
@@ -9,6 +7,9 @@
                         a.  next-entry key value ('' if last entry)
                         b.  prior-entry key value ('' if first entry)
                         c.  data content
+			
+      Assumptions:	Python ver. 2.7.14 or higher.
+   
 	
   **************************************************************************************
 
